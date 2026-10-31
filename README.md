@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Ishraq Ali 👋
+Law Graduate Student
 
-<!--
-**Ishraq-5/Ishraq-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Education: Law graduate 2026, The University of Faisalabad, Faisalabad
+💻 Core Interests: Legal Tech, Data Privacy, Trade Law, Corporate Law, and their integration
+🔭 Currently Working On: Academic research projects
+🌱 Learning & Enhancing: Exploring emerging technologies in law, Research, new digital trade framework. 
+🎯 Goals: Leveraging legal knowledge and AI to enhance public access to justice and promote social welfare.
+
+
+
